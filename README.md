@@ -8,6 +8,10 @@ Código y retos de los videos de [@bucledelycan](https://www.youtube.com/@bucled
 | --- | --- |
 | [Introducción a los Algoritmos](cursos/introduccion-a-los-algoritmos/) | 1 de 42 |
 
+## Juegos
+
+- [Lycanópolis](juegos/lycanopolis/): El monopolio del canal para aprender algoritmos jugando: las casillas son los episodios del curso de Introducción a los Algoritmos, y cada uno tiene un reto de programación que se juega sin saber programar. Se juega en https://cangothic.github.io/bucledelycan/juegos/lycanopolis/
+
 ## Cómo usarlo
 
 Cada video tiene su carpeta en `cursos/<curso>/<módulo>/<video>/`:
