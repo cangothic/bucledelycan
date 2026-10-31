@@ -6,11 +6,12 @@ Código y retos de los videos de [@bucledelycan](https://www.youtube.com/@bucled
 
 | Curso | Videos con carpeta |
 | --- | --- |
-| [Introducción a los Algoritmos](cursos/introduccion-a-los-algoritmos/) | 1 de 42 |
+| [Introducción a los Algoritmos](cursos/introduccion-a-los-algoritmos/) | 2 de 42 |
 
 ## Juegos
 
 - [Lycanópolis](https://lycanopolis.canred.pro/): El juego que enseña: un juego de mesa del canal para aprender algoritmos jugando. Las casillas son los episodios del curso de Introducción a los Algoritmos, y cada uno tiene un reto de programación que se juega sin saber programar. Se juega en https://lycanopolis.canred.pro/ ([código](https://github.com/cangothic/lycanopolis)).
+- [El carrito de lycan](https://carrito.canred.pro/): Un juego del canal para aprender las estructuras de control de Python: programas un carrito escribiendo Python de verdad (for, while, if, elif y else) y lo ves ejecutarse línea por línea, en 15 niveles. Se juega en https://carrito.canred.pro/ ([código](https://github.com/cangothic/carrito)).
 
 ## Cómo usarlo
 

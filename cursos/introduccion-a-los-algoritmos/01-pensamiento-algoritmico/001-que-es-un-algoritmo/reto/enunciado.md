@@ -43,4 +43,4 @@ Si en el minuto que miras ya va 1-0, no sabes si el gol fue justo ahí o antes. 
 
 </details>
 
-La solución se explica al inicio del siguiente video y estará aquí, en solucion.py, cuando salga ese video.
+La solución está en [solucion.py](solucion.py).
