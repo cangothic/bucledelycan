@@ -9,6 +9,6 @@ Serie de YouTube de 42 videos más un tráiler para aprender a pensar problemas 
 | N.º | Video | Código y reto |
 | --- | --- | --- |
 | 1 | ¿Qué es un algoritmo? (y por qué ya usas muchos) · [▶ ver el video](https://youtu.be/Jbjida3ybxU) | [carpeta](01-pensamiento-algoritmico/001-que-es-un-algoritmo/) |
-| 2 | Pseudocódigo y diagramas de flujo: planea antes de programar · estreno el 31 oct 2026 | [carpeta](01-pensamiento-algoritmico/002-pseudocodigo-y-diagramas-de-flujo/) |
+| 2 | Pseudocódigo y diagramas de flujo: planea antes de programar · [▶ ver el video](https://youtu.be/zPwooJfyOuY) | [carpeta](01-pensamiento-algoritmico/002-pseudocodigo-y-diagramas-de-flujo/) |
 
 Los videos nuevos salen en [el canal](https://www.youtube.com/@bucledelycan); la carpeta de cada uno aparece aquí el día que se publica.
