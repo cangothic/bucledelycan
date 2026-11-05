@@ -7,12 +7,10 @@ Te perdiste el gol del partido que grabaste. ¿Lo buscas minuto a minuto o parti
 | Archivo | Qué es |
 | --- | --- |
 | [codigo/buscar_gol.py](codigo/buscar_gol.py) | El código del video. Ejecútalo con `python codigo/buscar_gol.py` |
-| [reto/enunciado.md](reto/enunciado.md) | El reto del video |
+| [reto/enunciado.md](reto/enunciado.md) | Un ejercicio para practicar |
 | [reto/solucion.py](reto/solucion.py) | Su solución |
 
 ## Fuentes
 
 - Al-Juarismi y el origen de la palabra «algoritmo»: Merriam-Webster, entrada «algorithm» (etimología).
 - Algoritmo de Euclides: Euclides, *Elementos*, libro VII, proposiciones 1 y 2.
-
-¿Lo resolviste? Comparte tu solución en los comentarios del video: [cómo compartirla](../../../../CONTRIBUTING.md).

@@ -1,6 +1,6 @@
 # ↻ El bucle de lycan
 
-Código y retos de los videos de [@bucledelycan](https://www.youtube.com/@bucledelycan), el canal de YouTube para entender cómo funciona el software por dentro: primero lo ves moverse, después lo programas en Python.
+Código de los videos de [@bucledelycan](https://www.youtube.com/@bucledelycan), el canal de YouTube para entender cómo funciona el software por dentro: primero lo ves moverse, después lo programas en Python.
 
 ## Cursos
 
@@ -11,16 +11,16 @@ Código y retos de los videos de [@bucledelycan](https://www.youtube.com/@bucled
 ## Juegos
 
 - [Lycanópolis](https://lycanopolis.canred.pro/): El juego que enseña: un juego de mesa del canal para aprender algoritmos jugando. Las casillas son los episodios del curso de Introducción a los Algoritmos, y cada uno tiene un reto de programación que se juega sin saber programar. Se juega en https://lycanopolis.canred.pro/ ([código](https://github.com/cangothic/lycanopolis)).
-- [El carrito de lycan](https://carrito.canred.pro/): Un juego del canal para aprender las estructuras de control de Python: programas un carrito escribiendo Python de verdad (for, while, if, elif y else) y lo ves ejecutarse línea por línea, en 15 niveles. Se juega en https://carrito.canred.pro/ ([código](https://github.com/cangothic/carrito)).
+- [El carrito de lycan](https://carrito.canred.pro/): Un juego del canal para aprender Python: programas un carrito escribiendo Python de verdad y lo ves ejecutarse línea por línea, en 23 niveles. Las estructuras de control (for, while, if, elif y else), las variables y las estructuras de datos: listas, pilas, colas con deque, conjuntos y diccionarios. Se juega en https://carrito.canred.pro/ ([código](https://github.com/cangothic/carrito)).
 
 ## Cómo usarlo
 
 Cada video tiene su carpeta en `cursos/<curso>/<módulo>/<video>/`:
 
 - `codigo/`: el código que se escribe en el video. Ejecútalo con Python 3: `python archivo.py`.
-- `reto/`: el reto del video. La solución aparece cuando sale el video siguiente, que la explica.
+- `reto/`: un ejercicio para practicar, si el video lo trae. Su solución aparece cuando sale el video siguiente.
 
-¿Resolviste un reto o quieres participar en un proyecto final? Mira [CONTRIBUTING.md](CONTRIBUTING.md).
+¿Hiciste el proyecto final de un curso? Mira [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licencia
 
