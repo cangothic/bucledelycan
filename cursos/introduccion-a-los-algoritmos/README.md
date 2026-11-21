@@ -19,5 +19,6 @@ Serie de YouTube de 42 videos más un tráiler para aprender a pensar problemas 
 | --- | --- | --- |
 | 5 | Complejidad algorítmica: por qué tu programa se vuelve lento con muchos datos · estreno el 20 nov 2026 | [carpeta](02-eficiencia-y-big-o/005-por-que-tu-programa-se-vuelve-lento/) |
 | 6 | Notación Big O explicada fácil: O(1), O(log n), O(n), O(n log n), O(n²) y O(2ⁿ) · estreno el 27 nov 2026 | [carpeta](02-eficiencia-y-big-o/006-notacion-big-o/) |
+| 7 | Mejor caso, peor caso y caso promedio de un algoritmo (y complejidad espacial) · estreno el 4 dic 2026 | [carpeta](02-eficiencia-y-big-o/007-mejor-peor-y-caso-promedio/) |
 
 Los videos nuevos salen en [el canal](https://www.youtube.com/@bucledelycan); la carpeta de cada uno aparece aquí el día que se publica.
