@@ -22,4 +22,11 @@ Serie de YouTube de 42 videos más un tráiler para aprender a pensar problemas 
 | 7 | Mejor caso, peor caso y caso promedio de un algoritmo (y complejidad espacial) · estreno el 4 dic 2026 | [carpeta](02-eficiencia-y-big-o/007-mejor-peor-y-caso-promedio/) |
 | 8 | Medir el tiempo de ejecución en Python con timeit: teoría vs. cronómetro · estreno el 11 dic 2026 | [carpeta](02-eficiencia-y-big-o/008-medir-tiempos-con-timeit/) |
 
+## Módulo 3 — Estructuras de datos lineales
+
+| N.º | Video | Código |
+| --- | --- | --- |
+| 9 | Listas en Python: lo que cuesta cada operación (append, insert y Big O) · estreno el 18 dic 2026 | [carpeta](03-estructuras-de-datos-lineales/009-listas-en-python/) |
+| 10 | Pilas en Python: cómo funciona el botón de deshacer (Ctrl+Z) · estreno el 25 dic 2026 | [carpeta](03-estructuras-de-datos-lineales/010-pilas/) |
+
 Los videos nuevos salen en [el canal](https://www.youtube.com/@bucledelycan); la carpeta de cada uno aparece aquí el día que se publica.
