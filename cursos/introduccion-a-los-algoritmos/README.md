@@ -28,5 +28,6 @@ Serie de YouTube de 42 videos más un tráiler para aprender a pensar problemas 
 | --- | --- | --- |
 | 9 | Listas en Python: lo que cuesta cada operación (append, insert y Big O) · estreno el 18 dic 2026 | [carpeta](03-estructuras-de-datos-lineales/009-listas-en-python/) |
 | 10 | Pilas en Python: cómo funciona el botón de deshacer (Ctrl+Z) · estreno el 25 dic 2026 | [carpeta](03-estructuras-de-datos-lineales/010-pilas/) |
+| 11 | Colas en Python con deque: la fila del banco · estreno el 1 ene 2027 | [carpeta](03-estructuras-de-datos-lineales/011-colas-y-deque/) |
 
 Los videos nuevos salen en [el canal](https://www.youtube.com/@bucledelycan); la carpeta de cada uno aparece aquí el día que se publica.
