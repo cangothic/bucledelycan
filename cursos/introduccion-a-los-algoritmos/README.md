@@ -33,4 +33,16 @@ Serie de YouTube de 42 videos más un tráiler para aprender a pensar problemas 
 | 13 | Listas enlazadas en Python desde cero: clases y nodos · estreno el 15 ene 2027 | [carpeta](03-estructuras-de-datos-lineales/013-listas-enlazadas/) |
 | 14 | Paréntesis balanceados y frecuencia de palabras en Python: ejercicios resueltos · estreno el 22 ene 2027 | [carpeta](03-estructuras-de-datos-lineales/014-retos-resueltos/) |
 
+## Módulo 4 — Búsqueda y ordenamiento
+
+| N.º | Video | Código |
+| --- | --- | --- |
+| 15 | Búsqueda binaria vs. lineal en Python: 20 pasos entre un millón · estreno el 29 ene 2027 | [carpeta](04-busqueda-y-ordenamiento/015-busqueda-lineal-vs-binaria/) |
+| 16 | Ordenamiento burbuja en Python (bubble sort): el más fácil de entender · estreno el 5 feb 2027 | [carpeta](04-busqueda-y-ordenamiento/016-ordenamiento-burbuja/) |
+| 17 | Ordenamiento por inserción y selección en Python: dos O(n²) muy distintos · estreno el 12 feb 2027 | [carpeta](04-busqueda-y-ordenamiento/017-seleccion-e-insercion/) |
+| 18 | Merge sort en Python: ordenamiento por mezcla y de dónde sale n log n · estreno el 19 feb 2027 | [carpeta](04-busqueda-y-ordenamiento/018-merge-sort/) |
+| 19 | Quicksort en Python: ordenamiento rápido y por qué importa el pivote · estreno el 26 feb 2027 | [carpeta](04-busqueda-y-ordenamiento/019-quick-sort/) |
+| 20 | Algoritmos de ordenamiento en Python: cuál es más rápido y cuándo · estreno el 5 mar 2027 | [carpeta](04-busqueda-y-ordenamiento/020-carrera-de-algoritmos/) |
+| 21 | sorted() en Python por dentro: cómo ordenar listas con key, reverse y estabilidad · estreno el 12 mar 2027 | [carpeta](04-busqueda-y-ordenamiento/021-sorted-por-dentro-y-estabilidad/) |
+
 Los videos nuevos salen en [el canal](https://www.youtube.com/@bucledelycan); la carpeta de cada uno aparece aquí el día que se publica.

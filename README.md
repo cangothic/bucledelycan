@@ -6,7 +6,7 @@ Código de los videos de [@bucledelycan](https://www.youtube.com/@bucledelycan),
 
 | Curso | Videos con carpeta |
 | --- | --- |
-| [Introducción a los Algoritmos](cursos/introduccion-a-los-algoritmos/) | 14 de 42 |
+| [Introducción a los Algoritmos](cursos/introduccion-a-los-algoritmos/) | 21 de 42 |
 
 ## Juegos
 
