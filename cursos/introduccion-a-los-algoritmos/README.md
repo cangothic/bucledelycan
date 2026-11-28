@@ -45,4 +45,14 @@ Serie de YouTube de 42 videos más un tráiler para aprender a pensar problemas 
 | 20 | Algoritmos de ordenamiento en Python: cuál es más rápido y cuándo · estreno el 5 mar 2027 | [carpeta](04-busqueda-y-ordenamiento/020-carrera-de-algoritmos/) |
 | 21 | sorted() en Python por dentro: cómo ordenar listas con key, reverse y estabilidad · estreno el 12 mar 2027 | [carpeta](04-busqueda-y-ordenamiento/021-sorted-por-dentro-y-estabilidad/) |
 
+## Módulo 5 — Recursión y divide y vencerás
+
+| N.º | Video | Código |
+| --- | --- | --- |
+| 22 | Recursividad en Python: caso base y pila de llamadas, sin miedo · estreno el 19 mar 2027 | [carpeta](05-recursion-y-divide-y-venceras/022-recursion-sin-miedo/) |
+| 23 | Fibonacci y factorial recursivos en Python (y potencia rápida) · estreno el 26 mar 2027 | [carpeta](05-recursion-y-divide-y-venceras/023-factorial-fibonacci-y-potencia-rapida/) |
+| 24 | Divide y vencerás en Python: merge sort y búsqueda binaria recursivos · estreno el 2 abr 2027 | [carpeta](05-recursion-y-divide-y-venceras/024-divide-y-venceras/) |
+| 25 | Torres de Hanói en Python: se resuelven con 3 líneas de recursividad · estreno el 9 abr 2027 | [carpeta](05-recursion-y-divide-y-venceras/025-torres-de-hanoi/) |
+| 26 | Backtracking en Python: permutaciones y cómo salir de un laberinto · estreno el 16 abr 2027 | [carpeta](05-recursion-y-divide-y-venceras/026-backtracking/) |
+
 Los videos nuevos salen en [el canal](https://www.youtube.com/@bucledelycan); la carpeta de cada uno aparece aquí el día que se publica.
